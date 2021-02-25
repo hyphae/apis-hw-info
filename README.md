@@ -11,7 +11,7 @@ APIS hardware information presented here provides information on hardware necess
 <img src="media/thumbnail.PNG" alt="Composition of system" width="600" height="400">
 </div>
 <br>
-
+https://github.com/hyphae/apis-hw-info/blob/main/README.md
 These recommended hardware specifications are useful as reference information when designing hardware system that carries out not emulations but actual energy sharings between battery systems. Hardware operations thus cannot be guaranteed with these specifications. Users should therefore appropriately design, select, evaluate, and use hardware for the actual energy sharing system.
 
 <br>
